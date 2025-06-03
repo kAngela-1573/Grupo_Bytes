@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DS\\NortWind_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E597224-212B-4A14-B3CF-894333196678}|NortWind_11\\NortWind_11.csproj|d:\\ds\\nortwind_11\\nortwind_11\\webnort.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1E597224-212B-4A14-B3CF-894333196678}|NortWind_11\\NortWind_11.csproj|solutionrelative:nortwind_11\\webnort.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E597224-212B-4A14-B3CF-894333196678}|NortWind_11\\NortWind_11.csproj|d:\\ds\\nortwind_11\\nortwind_11\\webnort.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E597224-212B-4A14-B3CF-894333196678}|NortWind_11\\NortWind_11.csproj|solutionrelative:nortwind_11\\webnort.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E597224-212B-4A14-B3CF-894333196678}|NortWind_11\\NortWind_11.csproj|d:\\ds\\nortwind_11\\nortwind_11\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1E597224-212B-4A14-B3CF-894333196678}|NortWind_11\\NortWind_11.csproj|solutionrelative:nortwind_11\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\DS\\NortWind_11\\NortWind_11\\Model1.edmx",
+              "RelativeDocumentMoniker": "NortWind_11\\Model1.edmx",
+              "ToolTip": "D:\\DS\\NortWind_11\\NortWind_11\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "NortWind_11\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-31T04:40:26.866Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebNort.aspx.cs",
+              "DocumentMoniker": "D:\\DS\\NortWind_11\\NortWind_11\\WebNort.aspx.cs",
+              "RelativeDocumentMoniker": "NortWind_11\\WebNort.aspx.cs",
+              "ToolTip": "D:\\DS\\NortWind_11\\NortWind_11\\WebNort.aspx.cs",
+              "RelativeToolTip": "NortWind_11\\WebNort.aspx.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAewIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:32:42.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebNort.aspx",
+              "DocumentMoniker": "D:\\DS\\NortWind_11\\NortWind_11\\WebNort.aspx",
+              "RelativeDocumentMoniker": "NortWind_11\\WebNort.aspx",
+              "ToolTip": "D:\\DS\\NortWind_11\\NortWind_11\\WebNort.aspx",
+              "RelativeToolTip": "NortWind_11\\WebNort.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T04:29:33.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
